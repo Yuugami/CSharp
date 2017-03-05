@@ -1,0 +1,7 @@
+C:\Algonquin\15W\CST8253\Week 4\Lab4Solution\Lab4Solution\bin\Debug\Lab4Solution.exe.config
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 4\Lab4Solution\Lab4Solution\bin\Debug\Lab4Solution.exe.config
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 4\Lab4Solution\Lab4Solution\bin\Debug\Lab4Solution.exe
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 4\Lab4Solution\Lab4Solution\bin\Debug\Lab4Solution.pdb
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 4\Lab4Solution\Lab4Solution\obj\Debug\Lab4Solution.csprojResolveAssemblyReference.cache
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 4\Lab4Solution\Lab4Solution\obj\Debug\Lab4Solution.exe
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 4\Lab4Solution\Lab4Solution\obj\Debug\Lab4Solution.pdb

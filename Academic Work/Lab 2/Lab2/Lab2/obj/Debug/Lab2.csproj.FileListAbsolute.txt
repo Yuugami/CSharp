@@ -1,0 +1,6 @@
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 2\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Windjy\Documents\Algonquin College Life\Level 2\Web Programming II\Labs\Lab 2\Lab2\Lab2\obj\Debug\Lab2.pdb
